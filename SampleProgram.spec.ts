@@ -1,2 +1,4 @@
 console.log('Git Session Sample Push')
 console.log('Git Session Sample Pull')
+console.log('One more push GIT session')
+console.log('One more Push')
